@@ -1,5 +1,5 @@
 import { shallowMount, VueWrapper } from '@vue/test-utils'
-import PTest from '@/components/Test/index.vue'
+import PTest from '@/components/PTest/index.vue'
 
 let wrapper: VueWrapper<any>
 

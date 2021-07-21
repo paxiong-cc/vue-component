@@ -1,5 +1,5 @@
 import { shallowMount, VueWrapper } from '@vue/test-utils'
-import PSelect from '@/components/Select/index.vue'
+import PSelect from '@/components/PSelect/index.vue'
 
 let wrapper: VueWrapper<any>
 
