@@ -66,9 +66,11 @@
     "UI",
     "Vue3"
   ],
+  "homepage": "https://github.com/paxiong-cc/vue-component",
   "license": "MIT",
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "https://github.com/paxiong-cc/vue-component"
   },
   "types": "dist/index.d.ts"
 }
